@@ -1,0 +1,5 @@
+mrs: 10
+myimg: nginx
+tag: app
+key: myapp
+rep: 3
